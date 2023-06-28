@@ -17,4 +17,4 @@ If you want to contact me you can find me here:
 (And Python but there is no fancy banner for that)
 
 ### Stats
-[![Marios's GitHub stats](https://github-readme-stats.vercel.app/api?username=terminatortermi)](https://github.com/anuraghazra/github-readme-stats)
+[![Marios's GitHub stats](https://github-readme-stats.vercel.app/api?username=terminatortermi&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
